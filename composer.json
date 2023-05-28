@@ -1,0 +1,20 @@
+{
+    "name": "markcaggiano/novaengel",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mc\\Novaengel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Caggiano",
+            "email": "mcisback@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}
