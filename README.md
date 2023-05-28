@@ -1,2 +1,2 @@
 # novaengel-script-main
-Download full catalogue of images from drop.novaengel.com
+Download full catalogue of images and products from drop.novaengel.com
